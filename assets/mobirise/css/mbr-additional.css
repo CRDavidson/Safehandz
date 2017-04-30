@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #c1c1c1;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #b7b7b7;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #000000;
+}
+#header2-7 H1 {
+  color: #000000;
+}
+#header2-7 P {
+  color: #000000;
+}
+#content1-9 BLOCKQUOTE {
+  color: #000000;
+}
+#content1-9 DIV {
+  text-align: center;
+  color: #000000;
+}
+#gallery1-2 SMALL {
+  text-align: center;
+}
