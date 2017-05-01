@@ -155,8 +155,8 @@
             "images": [
               {
                 "caption": "Generalhandz",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/safehandz-logo-master-text-45-black-cmy100k-no-text-sized-for-mug-1-128x320-800x2000.png",
+                "image": "@PROJECT_PATH@/assets/images/safehandz-logo-master-text-45-black-cmy100k-no-text-sized-for-mug-1-128x320.png",
                 "active": true
               }
             ],
