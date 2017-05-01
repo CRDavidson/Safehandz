@@ -179,7 +179,7 @@
               }
             ],
             "showText": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "fullWidth": false,
             "noGutter": true,
             "showBullets": true
