@@ -154,28 +154,10 @@
             "paddingBottom": 3,
             "images": [
               {
-                "caption": "Minershandz",
-                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000.png",
-                "active": true
-              },
-              {
-                "caption": "Fittershandz",
-                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000.png",
-                "active": false
-              },
-              {
-                "caption": "Cuttinghandz",
-                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000.png",
-                "active": false
-              },
-              {
                 "caption": "Generalhandz",
-                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000.png",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr.jpg",
+                "active": true
               }
             ],
             "showText": true,
