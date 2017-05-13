@@ -155,9 +155,15 @@
             "images": [
               {
                 "caption": "Generalhandz",
-                "thumb": "@PROJECT_PATH@/assets/images/safehandz-logo-master-text-45-black-cmy100k-no-text-sized-for-mug-1-128x320-800x2000.png",
-                "image": "@PROJECT_PATH@/assets/images/safehandz-logo-master-text-45-black-cmy100k-no-text-sized-for-mug-1-128x320.png",
+                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-800x800.png",
                 "active": true
+              },
+              {
+                "caption": "Generalhandz",
+                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000.png",
+                "active": false
               }
             ],
             "showText": true,
