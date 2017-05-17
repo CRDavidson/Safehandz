@@ -137,7 +137,7 @@
             }
           },
           "_anchor": "content1-9",
-          "text": "Everyone needs reminding. Incorporating behaviour changing messages on the hands of your employees will reduce the liklihood of them forgetting critical steps while working under pressure.&nbsp;"
+          "text": "Incorporating behaviour changing messages on the hands of your employees will reduce the liklihood of them forgetting critical steps while working under pressure.&nbsp;"
         },
         {
           "_tags": [
@@ -155,15 +155,15 @@
             "images": [
               {
                 "caption": "Generalhandz",
-                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-800x800-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-800x800.png",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-jpeg-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-jpeg.jpg",
+                "active": false
               },
               {
                 "caption": "Generalhandz",
-                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-2000x2000.png",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/glove-with-logo-jpeg-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glove-with-logo-jpeg.jpg",
+                "active": true
               }
             ],
             "showText": true,
@@ -210,9 +210,13 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "qrc:/web/app/builder/images/bootstrap.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
